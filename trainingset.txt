@@ -1,0 +1,71 @@
+#大企应聘#
+3
+实习经历 项目经验 是否名校
+6
+有 有 是 录用
+有 无 是 录用
+无 无 否 不录用
+有 无 否 不录用
+无 有 否 录用
+无 无 是 录用
+
+#银行借贷#
+4
+age job house credit
+15
+young no no poor no
+young no no average no
+young yes no average yes
+young yes yes poor yes
+young no no poor no
+middle no no poor no
+middle no no  average no
+middle yes yes average yes
+middle no yes good yes
+middle no yes good yes
+old no yes good yes
+old no yes average yes
+old yes no average yes
+old yes no good yes
+old no no poor no
+
+#今天去打乒乓球吗#
+4
+outlook temperature humidity windy
+14
+sunny hot high FALSE no
+sunny hot high TRUE no
+overcast hot high FALSE yes
+rainy mild high FALSE yes
+rainy cool normal FALSE yes
+rainy cool normal TRUE no
+overcast cool normal TRUE yes
+sunny mild high FALSE no
+sunny cool normal FALSE yes
+rainy mild normal FALSE yes
+sunny mild normal TRUE yes
+overcast mild high TRUE yes
+overcast hot normal FALSE yes
+rainy mild high TRUE no
+
+#如何挑选西瓜#
+6
+色泽 根蒂 敲声 纹理 脐部 触感
+17
+青绿 蜷缩 浊响 清晰 凹陷 硬滑 好瓜
+乌黑 蜷缩 沉闷 清晰 凹陷 硬滑 好瓜
+乌黑 蜷缩 浊响 清晰 凹陷 硬滑 好瓜
+青绿 蜷缩 沉闷 清晰 凹陷 硬滑 好瓜
+浅白 蜷缩 浊响 清晰 凹陷 硬滑 好瓜
+青绿 稍蜷 浊响 清晰 稍凹 软粘 好瓜
+乌黑 稍蜷 浊响 稍糊 稍凹 软粘 好瓜
+乌黑 稍蜷 浊响 清晰 稍凹 硬滑 好瓜
+乌黑 稍蜷 沉闷 稍糊 稍凹 硬滑 坏瓜
+青绿 硬挺 清脆 清晰 平坦 软粘 坏瓜
+浅白 硬挺 清脆 模糊 平坦 硬滑 坏瓜
+浅白 蜷缩 浊响 模糊 平坦 软粘 坏瓜
+青绿 稍蜷 浊响 稍糊 凹陷 硬滑 坏瓜
+浅白 稍蜷 沉闷 稍糊 凹陷 硬滑 坏瓜
+乌黑 稍蜷 浊响 清晰 稍凹 软粘 坏瓜
+浅白 蜷缩 浊响 模糊 平坦 硬滑 坏瓜
+青绿 蜷缩 沉闷 稍糊 稍凹 硬滑 坏瓜

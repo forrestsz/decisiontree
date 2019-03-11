@@ -28,7 +28,7 @@ If we own the training set(**trainingset.txt**) as follows:
 We can using the **main.cpp** for training a decision tree.
 ![v](https://github.com/linqinghong/decisiontree/blob/master/img/training.png)
 
-After training, we can use it for testing~
+After training, we can use it for testing~  
 ![v](https://github.com/linqinghong/decisiontree/blob/master/img/testing.png)
 
 What's more, you can using the **visualization.py** for visualiza the decision tree easily.  

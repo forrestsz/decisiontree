@@ -25,7 +25,7 @@ If we own the training set as follows:
 浅白 蜷缩 浊响 模糊 平坦 硬滑 坏瓜  
 青绿 蜷缩 沉闷 稍糊 稍凹 硬滑 坏瓜  
 
-we can using the **main.cpp** for training a decision tree as well as test.
+we can using the **main.cpp** for training a decision tree as well as testing.
 
 what's more, you can using the **visualization.py** for visualiza the decision tree easily.
 ![v](https://github.com/linqinghong/decisiontree/blob/master/tree.png)
